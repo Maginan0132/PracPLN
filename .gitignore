@@ -1,0 +1,9 @@
+# Artefactos generados por el notebook (no subir al repo)
+cache/
+models/
+results/
+cache_smoke/
+models_smoke/
+results_smoke/
+.ipynb_checkpoints/
+full_dataset/
